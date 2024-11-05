@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ulhaqzain7
+- 👋 Hi, I’m @ulhaqzain
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java and go;
 - 💞️ I’m looking to collaborate on ...
